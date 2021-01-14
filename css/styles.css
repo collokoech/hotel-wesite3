@@ -3,13 +3,13 @@ html{
   scroll-behavior: smooth;
 }
 .maincontainer{
-    background-image: url('../');
+    background-image: url("../images/main.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
     text-align: center;
-    padding-top:4%; 
+    padding-top:0%; 
     font-family: 'Gabriela', serif;
     
   }
